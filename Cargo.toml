@@ -1,0 +1,8 @@
+[package]
+name = "try_rust_postgres"
+version = "0.1.0"
+authors = ["garyemerson <gmohammadioun@gmail.com>"]
+
+[dependencies]
+postgres = { version = "0.15", features = ["with-chrono"] }
+chrono = "0.4"
