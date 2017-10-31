@@ -1,5 +1,5 @@
 [root]
-name = "try_rust_postgres"
+name = "metrics_update"
 version = "0.1.0"
 dependencies = [
  "chrono 0.4.0 (registry+https://github.com/rust-lang/crates.io-index)",
